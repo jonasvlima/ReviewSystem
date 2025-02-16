@@ -56,7 +56,8 @@ API para gerenciar avaliações de filmes, séries e livros. Desenvolvida para p
 
 📞 **Contato**
 - Nome: Jonas Lima
-- GitHub: jonasvlima
-- LinkedIn: Jonas Lima
+- GitHub: [jonasvlima](https://github.com/jonasvlima)
+- LinkedIn: [Jonas Lima](https://www.linkedin.com/in/jonasvlima/)
 
 🚀 **Projeto concluído!**
+
