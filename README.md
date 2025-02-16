@@ -1,6 +1,6 @@
 # ReviewSystem
 
-API para gerenciar avaliações de filmes, séries e livros. Desenvolvida para portfólio.
+API para gerenciar avaliações de filmes, séries e livros. 
 
 🚀 **Funcionalidades**
 - **Usuários**: Criar, visualizar e deletar.
